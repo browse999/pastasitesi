@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+*{font-family: "Roboto Mono";}
+
+.nav-item {
+    color: white;
+    text-decoration: none;
+    padding-left: 25px;
+}
+
+.navBar {
+    font-size: 18px;
+}
+
+#topFooter {
+    background-color: rgb(54, 8, 29);
+    margin-top: 38%;
+    padding: 50px;
+    bottom:fixed;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-size: 19px;
+}
+
+ul {
+    list-style-type: none;
+    color: red;
+    font-size: 19px;
+}
+
+.pasta{
+
+    margin-top: 25%;
+    padding: auto;
+    width: 18rem;
+   color: red;
+}
+
+
+.card-body { text-align: center; 
+
+    padding: 30px;
+    
+
+}
+
+
+.card span {
+    font-size: 25px;
+    color:blue;
+}
+
+.card-title span {
+    color: red;font-size: 15px;
+}
+
+
+.card-title span i {
+    font-size: 25px;
+    color: red;
+}
+
+.smallHeader  {
+    background-color: rgb(54, 8, 29);
+}
+
+.smallHeader a {
+    color: white;
+}
+
+
+.btn-success{
+
+    background-color: darkblue;
+    text-align: center;
+    font-family: sans-serif;
+}
